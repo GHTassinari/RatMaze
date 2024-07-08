@@ -1,0 +1,28 @@
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.exe
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.deps.json
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.runtimeconfig.json
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.dll
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.pdb
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.AssemblyInfoInputs.cache
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.AssemblyInfo.cs
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.csproj.CoreCompileInputs.cache
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.dll
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\obj\Debug\net6.0\refint\LabirintoRato.dll
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.pdb
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.genruntimeconfig.cache
+C:\Users\Iksortso K2\Desktop\LabirintoRato\LabirintoRato\LabirintoRato\obj\Debug\net6.0\ref\LabirintoRato.dll
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.exe
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.deps.json
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.runtimeconfig.json
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.dll
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\bin\Debug\net6.0\LabirintoRato.pdb
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.AssemblyInfoInputs.cache
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.AssemblyInfo.cs
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.dll
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\obj\Debug\net6.0\refint\LabirintoRato.dll
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.pdb
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\obj\Debug\net6.0\LabirintoRato.genruntimeconfig.cache
+D:\Usuario\Documents\mouseMaze-master\LabirintoRato\LabirintoRato\obj\Debug\net6.0\ref\LabirintoRato.dll
